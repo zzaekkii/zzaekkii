@@ -2,12 +2,6 @@
 
 <img  src='https://github-readme-stats.vercel.app/api?username=CWCTBOY&show_icons=true&theme=radical' width='435'/>
 <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdlswo98"/>
-
-
-
-<h3 align="left">· Dev_Environments 🧑🏻‍💻</h3>
-<img src='https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white'/>
-<img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
   
 <h3 align="left">· Major Programming Language & FrameWork ⌨️</h3>  
 <p align="left">
@@ -34,4 +28,4 @@
 <img src='https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E'/>
 <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'/>
 <img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white'/>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kcj1607)](https://solved.ac/kcj1607)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcj1607)](https://solved.ac/kcj1607/)
