@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ABCDEB,20:2DA2D7,100:00E248&height=300&section=header&text=CWCTBOY&fontSize=100&fontAlign=50&fontAlignY=38&animation=twinkling&desc=The%20Post%20CEO%20Aggregation)
-
-<img  src='https://github-readme-stats.vercel.app/api?username=CWCTBOY&show_icons=true&theme=radical' width='435'/>
-<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdlswo98"/>
+  
+  
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcj1607)](https://solved.ac/kcj1607)
   
 <h3 align="left">· Major Programming Language & FrameWork ⌨️</h3>  
 <p align="left">
@@ -29,3 +29,4 @@
 <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'/>
 <img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white'/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcj1607)](https://solved.ac/kcj1607/)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcj1607)](https://solved.ac/kcj1607)
