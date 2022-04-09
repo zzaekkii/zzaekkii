@@ -1,5 +1,5 @@
 ## 🙋Prologue
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=265&section=header&text=Zakie's%20GitHub&fontSize=70&fontAlign=50&fontAlignY=38&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=265&section=header&text=Zakie's%20GitHub&fontSize=66&fontAlign=50&fontAlignY=38&animation=twinkling)
 
 ### 🧏Tech Stacks
 - Back end: C, Java
