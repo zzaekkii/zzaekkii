@@ -1,7 +1,6 @@
 ## 🧙‍♂️Prologue
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=265&section=header&text=JY's%20GitHub&fontSize=66&fontAlign=50&fontAlignY=38&animation=twinkling)
 
-
 ### 🌟Tech
 - Back-end: <span><img src="https://img.shields.io/badge/C-9999FF?style=flat-square&logo=C&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Java-F1CCA4?style=flat-square&logo=Java&logoColor=white"/></span>
