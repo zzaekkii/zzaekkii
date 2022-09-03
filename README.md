@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzaekkii&count_bg=%2304237B&title_bg=%234C4C4C&icon=rust.svg&icon_color=%23A8D2FA&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)## 🧙‍♂️Prologue
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzaekkii&count_bg=%2304237B&title_bg=%234C4C4C&icon=rust.svg&icon_color=%23A8D2FA&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com) ## 🧙‍♂️Prologue
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=265&section=header&text=JY's%20GitHub&fontSize=66&fontAlign=50&fontAlignY=38&animation=twinkling)
 
 
