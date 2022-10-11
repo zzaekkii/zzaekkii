@@ -1,5 +1,5 @@
 ## 🧙‍♂️Prologue
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradientheight=265&section=header&text=ZAKIE's%20GitHub&fontSize=66&fontAlign=50&fontAlignY=38&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=265&section=header&text=ZAKIE's%20GitHub&fontSize=66&fontAlign=50&fontAlignY=38&animation=twinkling)
 
 <div align="center">
   
@@ -7,6 +7,7 @@
 
 ### And I love Algorithm.<br/>
 
+### 👨‍💻BOJ
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcj1607)](https://solved.ac/kcj1607)
 
 
