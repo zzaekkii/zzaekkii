@@ -1,12 +1,10 @@
 ## 🧙‍♂️Prologue
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=265&section=header&text=ZAKIE's%20GitHub&fontSize=66&fontAlign=50&fontAlignY=38&animation=twinkling)
+
 <div align="center">
-(https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ZAKIE's%20GitHub&fontSize=50&fontAlign=50&fontAlignY=38&animation=twinkling)
-
-
 ### I like <img src="https://img.shields.io/badge/C-9999FF?style=flat-square&logo=C&logoColor=white"/></span>
 
-### And I love Algorithm.
-
+### And I love Algorithm.<br/>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcj1607)](https://solved.ac/kcj1607)
 
