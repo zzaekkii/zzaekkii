@@ -6,7 +6,7 @@
   
 ### I like
   <img src="https://img.shields.io/badge/-9999FF?style=social&logo=C&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/-00599C?style=social&logo=C++&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/-00599C?style=social&logo=C&logoColor=blue"/>
 
 ### And I love Algorithm.<br/><br/>
 
