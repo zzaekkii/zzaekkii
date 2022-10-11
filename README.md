@@ -6,7 +6,7 @@
   
 ### I like <img src="https://img.shields.io/badge/C-9999FF?style=flat-square&logo=C&logoColor=white"/>
 
-### And I love Algorithm.<br/>
+### And I love Algorithm.<br/><br/>
 
 ## 👨‍💻BOJ
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcj1607)](https://solved.ac/kcj1607)
