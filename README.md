@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=hello,%20I'm&%20fontSize=50&fontAlign=50&fontAlignY=38&animation=twinkling)
 
   
-### I like <img src="https://img.shields.io/badge/-9999FF?style=social&logo=C&logoColor=royalblue"/> <img src="https://img.shields.io/badge/-00599C?style=flat&logo=C%2B%2B&logoColor=midnightblue"/>
+### I like <img src="https://img.shields.io/badge/-9999FF?style=social&logo=C&logoColor=royalblue"/> <img src="https://img.shields.io/badge/-00599C?style=social&logo=C%2B%2B&logoColor=midnightblue"/>
 
 ### And I love Algorithm.<br/><br/>
 
