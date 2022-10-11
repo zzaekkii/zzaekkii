@@ -1,5 +1,5 @@
 ## 🧙‍♂️Prologue
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100%&height=265&section=header&text=ZAKIE's%20GitHub&fontSize=66&fontAlign=50&fontAlignY=38&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=1000&height=265&section=header&text=ZAKIE's%20GitHub&fontSize=66&fontAlign=50&fontAlignY=38&animation=twinkling)
 
 <div align="center">
 ### I like <img src="https://img.shields.io/badge/C-9999FF?style=flat-square&logo=C&logoColor=white"/></span>
