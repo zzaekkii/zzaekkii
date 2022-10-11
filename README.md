@@ -1,7 +1,7 @@
 <div align="center">
   
 ## 🧙‍♂️Prologue
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=hello,%20I'm&%20fontSize=66&fontAlign=50&fontAlignY=38&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=hello,%20I'm&%20fontSize=50&fontAlign=50&fontAlignY=38&animation=twinkling)
 
   
 ### I like <img src="https://img.shields.io/badge/C-9999FF?style=flat-square&logo=C&logoColor=white"/>
