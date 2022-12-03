@@ -6,7 +6,7 @@
   
 ### I use <img src="https://img.shields.io/badge/C99-9999FF?style=social&logo=C&logoColor=royalblue"/> <img src="https://img.shields.io/badge/C++-00599C?style=social&logo=C%2B%2B&logoColor=midnightblue"/>
 
-### And I love Algorithm.<br/><br/><br/>
+### And I love Problem Solving.<br/><br/><br/>
 
 ## 👨‍💻BOJ
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcj1607)](https://solved.ac/kcj1607)
