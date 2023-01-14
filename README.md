@@ -2,8 +2,7 @@
   
 ## 🧙‍♂️Prologue
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=188&section=header&text=Hi~&%20fontSize=20&fontAlign=50&fontAlignY=38&animation=twinkling)
-
-### I love Problem Solving</br></br></br>
+### I love Problem Solving ^_^</br></br></br>
 
 ## 👨‍💻BOJ
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcj1607)](https://solved.ac/kcj1607)
