@@ -1,7 +1,6 @@
 <div align="center">
   
 ## 🧙‍♂️Prologue
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=188&section=header&text=Hi~&%20fontSize=20&fontAlign=50&fontAlignY=38&animation=twinkling)
 ### I love Problem Solving ^_^</br></br></br>
 
 ## 👨‍💻BOJ
